@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\lanin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\lanin\\.nuget\\packages"
-    ]
-  }
-}
